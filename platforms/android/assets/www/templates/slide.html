@@ -1,0 +1,13 @@
+<ion-view title="{{ model.name }}">
+	<ion-content>
+		<ion-slide-box active-slide="activeSlide" show-pager="false">
+			<ion-slide ng-repeat="image in model.images track by $index">
+				<div class="row">
+					<div class="col text-center item-image">
+						<img ng-src="{{ image }}" />
+					</div>
+				</div>
+			</ion-slide>
+		</ion-slide-box>
+	</ion-content>
+</ion-view>

@@ -1,0 +1,7 @@
+<ion-view title="Список">
+    <ion-content>
+    	<div class="list list-inset">
+	     	<a ng-repeat="model in modelList" class="item " ui-sref="model.gallery({groupId: groupId, modelId : model.id})">{{model.name}}</a>
+		</div>
+    </ion-content>
+</ion-view>

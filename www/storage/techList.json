@@ -1,0 +1,276 @@
+[
+    { 
+      "id" : 0, 
+      "groupId" : 0, 
+      "name" : "БТР-82а", 
+      "description" : "Бронетранспортер",
+      "images" : [
+        "../img/btr-82a.png",
+        "../img/btr-82a.png",
+        "../img/btr-82a.png",
+        "../img/btr-82a.png",
+        "../img/btr-82a.png"
+      ]
+      
+    },
+    { 
+      "id" : 1, 
+      "groupId" : 0, 
+      "name" : "T34-85", 
+      "description" : "Средний танк периода Великой Отечественной войны",
+      "images" : [
+        "../img/t-34-85.png"
+      ]
+      
+    },
+    { 
+      "id" : 2, 
+      "groupId" : 0, 
+      "name" : "СУ-100", 
+      "description" : "Самоходно-артиллерийская установка периода Великой Отечественной войны",
+      "images" : [
+        "../img/sy-100.png"
+      ]
+      
+    },
+    { 
+      "id" : 3, 
+      "groupId" : 0, 
+      "name" : "Тигр", 
+      "description" : "Бронеавтомобиль",
+      "images" : [
+        "../img/tigr.png"
+      ]
+      
+    },
+    { 
+      "id" : 4, 
+      "groupId" : 0, 
+      "name" : "Корнет-Д", 
+      "description" : "Противотанковый ракетный комплекс",
+      "images" : [
+        "../img/kornet-d.png"
+      ]
+      
+    },
+    { 
+      "id" : 5, 
+      "groupId" : 0, 
+      "name" : "Тайфун-К", 
+      "description" : "Бронеавтомобиль повышенной защищенности",
+      "images" : [
+        "../img/taifun-k.png"
+      ]
+      
+    },
+    { 
+      "id" : 6, 
+      "groupId" : 0, 
+      "name" : "Тайфун-У", 
+      "description" : "Бронеавтомобиль повышенной защищенности",
+      "images" : [
+        "../img/taifun-u.png"
+      ]
+      
+    },
+    { 
+      "id" : 7, 
+      "groupId" : 0, 
+      "name" : "БМД-4М", 
+      "description" : "Боевая гусеничная плавающая машина",
+      "images" : [
+        "../img/bmd-4m.png"
+      ]
+      
+    },
+    { 
+      "id" : 8, 
+      "groupId" : 0, 
+      "name" : "БТР-МДМ \"Ракушка\"", 
+      "description" : "Десантируемый бронетранспортер",
+      "images" : [
+        "../img/btr-mdm-rakushka.png"
+      ]   
+    },
+    { 
+      "id" : 9, 
+      "groupId" : 0, 
+      "name" : "БТР \"Курганец-25\"", 
+      "description" : "БТР на средней гусенечной платформе",
+      "images" : [
+        "../img/btr-kurganec-25.png"
+      ]   
+    },
+    { 
+      "id" : 10, 
+      "groupId" : 0, 
+      "name" : "БМП \"Армата\"", 
+      "description" : "БМП на тяжелой гусенечной платформе",
+      "images" : [
+        "../img/bmp-armata.png"
+      ]   
+    },
+    { 
+      "id" : 11, 
+      "groupId" : 0, 
+      "name" : "Т-90А", 
+      "description" : "Основной боевой танк",
+      "images" : [
+        "../img/t-90.png"
+      ]   
+    },
+    { 
+      "id" : 12, 
+      "groupId" : 0, 
+      "name" : "Танк \"Армата\"", 
+      "description" : "Танк на тяжелой гусенечной платформе",
+      "images" : [
+        "../img/t-90.png"
+      ]   
+    },
+    { 
+      "id" : 13, 
+      "groupId" : 0, 
+      "name" : "САУ \"Коалиция-СВ\"", 
+      "description" : "САУ класса самоходных гаубиц",
+      "images" : [
+        "../img/kaolicia-sv.png"
+      ]   
+    },
+    { 
+      "id" : 14, 
+      "groupId" : 0, 
+      "name" : "\"Искандер\"", 
+      "description" : "Оперативно-тактический ракетный комплекс",
+      "images" : [
+        "../img/iskander.png"
+      ]   
+    },
+    { 
+      "id" : 15, 
+      "groupId" : 0, 
+      "name" : "\"ТОР-М2У\"", 
+      "description" : "Всепогодный тактический зенитный ракетный комплекс",
+      "images" : [
+        "../img/tor-m2u.png"
+      ]   
+    },
+    { 
+      "id" : 16, 
+      "groupId" : 0, 
+      "name" : "\"БУК-М2\"", 
+      "description" : "Войсковой зенитно-ракетный комплекс средней дальности",
+      "images" : [
+        "../img/buk-m2.png"
+      ]   
+    },
+    { 
+      "id" : 17, 
+      "groupId" : 0, 
+      "name" : "\"Панцирь-С\"", 
+      "description" : "Самоходный ЗРПК наземного базирования",
+      "images" : [
+        "../img/pancir-c.png"
+      ]   
+    },
+    { 
+      "id" : 18, 
+      "groupId" : 0, 
+      "name" : "\"С-400\"", 
+      "description" : "Зенитная ракетная система большой и средней дальности",
+      "images" : [
+        "../img/c-400.png"
+      ]   
+    },
+    { 
+      "id" : 19, 
+      "groupId" : 0, 
+      "name" : "\"ЯРС\"", 
+      "description" : "Твердотопливная межконтинентальная баллистическая ракета",
+      "images" : [
+        "../img/irc.png",
+        "../img/irc-2.png"
+      ]   
+    },
+    { 
+      "id" : 20, 
+      "groupId" : 0, 
+      "name" : "БТР \"Бумеранг\"", 
+      "description" : "БТР на колесной платформе средней категории",
+      "images" : [
+        "../img/bumerang.png"
+      ]   
+    },
+    { 
+      "id" : 21, 
+      "groupId" : 1, 
+      "name" : "Ту-160", 
+      "description" : "",
+      "images" : [
+        "../img/ty-160.png"
+      ]   
+    },
+    { 
+      "id" : 22, 
+      "groupId" : 1, 
+      "name" : "Ми-8", 
+      "description" : "",
+      "images" : [
+        "../img/mi-8.png"
+      ]   
+    },
+    { 
+      "id" : 23, 
+      "groupId" : 1, 
+      "name" : "Ансат-У", 
+      "description" : "",
+      "images" : [
+        "../img/ansat-u.png"
+      ]   
+    },
+    { 
+      "id" : 24, 
+      "groupId" : 1, 
+      "name" : "Ка-52", 
+      "description" : "",
+      "images" : [
+        "../img/ka-52.png"
+      ]   
+    },
+    { 
+      "id" : 25, 
+      "groupId" : 1, 
+      "name" : "Су-24", 
+      "description" : "",
+      "images" : [
+        "../img/sy-24.png"
+      ]   
+    },
+    { 
+      "id" : 26, 
+      "groupId" : 1, 
+      "name" : "Су-34", 
+      "description" : "",
+      "images" : [
+        "../img/sy-34.png"
+      ]   
+    },
+    { 
+      "id" : 27, 
+      "groupId" : 1, 
+      "name" : "МиГ-31", 
+      "description" : "",
+      "images" : [
+        "../img/mig-31.png"
+      ]   
+    },
+    { 
+      "id" : 28, 
+      "groupId" : 1, 
+      "name" : "Су-25СМ", 
+      "description" : "",
+      "images" : [
+        "../img/sy-25cm.png"
+      ]   
+    }
+]
