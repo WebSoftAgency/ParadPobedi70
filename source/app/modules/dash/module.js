@@ -1,8 +1,8 @@
 var _templates = {
-    dash: require('./templates/dash.tpl.html')
+    dash: require("html!./templates/dash.tpl.html")
 };
 
-angular.module('dash', ['ionic'])
+module.exports = angular.module('dash', ['ionic'])
     .run(['$templateCache', function($templateCache) {
-        $templateCache.put('/modules/dash/templates/dash.tpl', templates.dash)
+        $templateCache.put('/modules/dash/templates/dash.tpl', _templates.dash)
     }])

@@ -1,0 +1,9 @@
+<ion-view title="Галлерея {{ currentModel.name }} ">
+    <ion-content>
+        <div class="row gallery">
+            <div class="col col-50" ng-repeat="image in currentModel.images track by $index">
+                <img ng-click="gallerySlider($index)" ng-src="img/models/{{image}}" width="100%" />
+            </div>
+        </div>
+    </ion-content>
+</ion-view>

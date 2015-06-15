@@ -6,66 +6,53 @@ module.exports = ['$stateProvider', '$urlRouterProvider', function($stateProvide
         .state('app', {
             url: '/app',
             abstract: true,
-            templateUrl: 'templates/patriot.html'
+            templateUrl: '/templates/app.tpl'
         })
         .state('app.dash', {
             url: '/dash',
-            templateUrl: 'templates/default.html'
+            templateUrl: '/modules/dash/templates/dash.tpl',
+            controller: 'DashCtrl'
         })
-        .state('app.login', {
-            url: '/login',
-            templateUrl: 'templates/login.html'
-        })
-        .state('app.about', {
-            url: '/about',
-            templateUrl: 'templates/about.html'
-        })
-        .state('app.groups', {
-            url: '/groups',
-            templateUrl: 'templates/groups.html',
-            controller: 'GroupsCtrl',
-        })
-        .state('app.models', {
-            url: '/groups/:groupId',
-            templateUrl: 'templates/models.html',
-            controller: 'GroupCtrl'
-        })
-        .state('model', {
-            url: '/groups/:groupId/models/:modelId',
-            templateUrl: 'templates/model.html',
-            controller: 'ModelCtrl',
-        })
-        .state('model.gallery', {
-            url: '/gallery',
+        .state('app.tech', {
+            url: '/tech',
             views: {
-                'conteiner': {
-                    templateUrl: 'templates/model-gallery.html',
+                '@app': {
+                    templateUrl: '/modules/tech/templates/tech.tpl',
+                    controller: "TechCtrl"
                 }
-            },
+            }
         })
-        .state('model.tth', {
-            url: '/tth',
+        .state('app.tech.catalog', {
+            url: '/catalog',
             views: {
-                'conteiner': {
-                    templateUrl: 'templates/tth.html',
+                '@app': {
+                    templateUrl: '/modules/tech/templates/techCatalog.tpl',
+                    controller: 'TechCatalogCtrl'
                 }
-            },
+            }
         })
-        .state('model.description', {
+        .state('app.tech.model', {
+            url: '/catalog',
+            views: {
+                '@app': {
+                    templateUrl: '/modules/tech/templates/techModel.tpl',
+                    controller: 'TechModelCtrl'
+                }
+            }
+        })
+        .state('app.tech.model.gallery', {
+            url: '/catalog',
+            templateUrl: '/modules/tech/templates/techModelGallery.tpl',
+            controller: 'TechModelCtrl'
+        })
+        .state('app.tech.model.description', {
             url: '/description',
-            views: {
-                'conteiner': {
-                    templateUrl: 'templates/description.html',
-                }
-            },
+            templateUrl: '/modules/tech/templates/techModelDescription.tpl',
+            controller: 'TechModelCtrl'
         })
-        .state('model.gallerySlide', {
-            url: '/slide',
-            views: {
-                'conteiner': {
-                    templateUrl: 'templates/slide.html',
-                    controller: 'SlideCtrl'
-                }
-            },
-        });
+        .state('app.tech.model.tth', {
+            url: '/tth',
+            templateUrl: '/modules/tech/templates/techModelTth.tpl',
+            controller: 'TechModelCtrl'
+        })
 }]

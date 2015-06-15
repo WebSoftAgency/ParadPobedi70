@@ -1,0 +1,13 @@
+<ion-view title="Описание {{ currentModel.name }} ">
+    <ion-content>
+        <div class="list card">
+            <div class="item">
+                <h2>{{currentModel.name}}</h2>
+            </div>
+            <div class="item item-body">
+                <img class="full-image" ng-src="img/models/{{currentModel.images[0]}}" />
+                <p>{{ currentModel.description }}</p>
+            </div>
+        </div>
+    </ion-content>
+</ion-view>

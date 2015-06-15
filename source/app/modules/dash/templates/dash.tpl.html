@@ -1,6 +1,16 @@
-<ion-view>
+<ion-view cache-view="false" view-title="Вооружение Российской Армии">
     <ion-content>
-        <a ui-sref="patriot.groups" class="button button-block">Каталог</a>
-        <a ng-controller='MainCtrl' ng-click="openModal()" class="button button-block">О приложении</a>
+        <div class="row">
+            <div class="col">
+                <div class="list">
+                    <a class="item" ui-sref="app.tech" ng-href="#">
+                        Каталог
+                    </a>
+                    <a class="item" ng-click="openModal()" ng-href="#">
+                        О приложении
+                    </a>
+                </div>
+            </div>
+        </div>
     </ion-content>
 </ion-view>

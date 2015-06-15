@@ -1,14 +1,4 @@
-.angular-google-map-container {
-	width: 100%;
-	height: 504px;
-}
-
 .gallery {
     -webkit-flex-wrap: wrap;
     flex-wrap: wrap;
-}
-
-.pane {
- 	background-image:url('../img/background.jpg');
- 	background-size:cover;
 }
