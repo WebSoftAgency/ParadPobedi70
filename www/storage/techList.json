@@ -5,11 +5,11 @@
       "name" : "БТР-82а", 
       "description" : "Бронетранспортер",
       "images" : [
-        "../img/btr-82a.png",
-        "../img/btr-82a.png",
-        "../img/btr-82a.png",
-        "../img/btr-82a.png",
-        "../img/btr-82a.png"
+        "btr-82a.png",
+        "btr-82a.png",
+        "btr-82a.png",
+        "btr-82a.png",
+        "btr-82a.png"
       ]
       
     },
@@ -19,7 +19,7 @@
       "name" : "T34-85", 
       "description" : "Средний танк периода Великой Отечественной войны",
       "images" : [
-        "../img/t-34-85.png"
+        "t-34-85.png"
       ]
       
     },
@@ -29,7 +29,7 @@
       "name" : "СУ-100", 
       "description" : "Самоходно-артиллерийская установка периода Великой Отечественной войны",
       "images" : [
-        "../img/sy-100.png"
+        "sy-100.png"
       ]
       
     },
@@ -39,7 +39,7 @@
       "name" : "Тигр", 
       "description" : "Бронеавтомобиль",
       "images" : [
-        "../img/tigr.png"
+        "tigr.png"
       ]
       
     },
@@ -49,7 +49,7 @@
       "name" : "Корнет-Д", 
       "description" : "Противотанковый ракетный комплекс",
       "images" : [
-        "../img/kornet-d.png"
+        "kornet-d.png"
       ]
       
     },
@@ -59,7 +59,7 @@
       "name" : "Тайфун-К", 
       "description" : "Бронеавтомобиль повышенной защищенности",
       "images" : [
-        "../img/taifun-k.png"
+        "taifun-k.png"
       ]
       
     },
@@ -69,7 +69,7 @@
       "name" : "Тайфун-У", 
       "description" : "Бронеавтомобиль повышенной защищенности",
       "images" : [
-        "../img/taifun-u.png"
+        "taifun-u.png"
       ]
       
     },
@@ -79,7 +79,7 @@
       "name" : "БМД-4М", 
       "description" : "Боевая гусеничная плавающая машина",
       "images" : [
-        "../img/bmd-4m.png"
+        "bmd-4m.png"
       ]
       
     },
@@ -89,7 +89,7 @@
       "name" : "БТР-МДМ \"Ракушка\"", 
       "description" : "Десантируемый бронетранспортер",
       "images" : [
-        "../img/btr-mdm-rakushka.png"
+        "btr-mdm-rakushka.png"
       ]   
     },
     { 
@@ -98,7 +98,7 @@
       "name" : "БТР \"Курганец-25\"", 
       "description" : "БТР на средней гусенечной платформе",
       "images" : [
-        "../img/btr-kurganec-25.png"
+        "btr-kurganec-25.png"
       ]   
     },
     { 
@@ -107,7 +107,7 @@
       "name" : "БМП \"Армата\"", 
       "description" : "БМП на тяжелой гусенечной платформе",
       "images" : [
-        "../img/bmp-armata.png"
+        "bmp-armata.png"
       ]   
     },
     { 
@@ -116,7 +116,7 @@
       "name" : "Т-90А", 
       "description" : "Основной боевой танк",
       "images" : [
-        "../img/t-90.png"
+        "t-90.png"
       ]   
     },
     { 
@@ -125,7 +125,7 @@
       "name" : "Танк \"Армата\"", 
       "description" : "Танк на тяжелой гусенечной платформе",
       "images" : [
-        "../img/t-90.png"
+        "t-90.png"
       ]   
     },
     { 
@@ -134,7 +134,7 @@
       "name" : "САУ \"Коалиция-СВ\"", 
       "description" : "САУ класса самоходных гаубиц",
       "images" : [
-        "../img/kaolicia-sv.png"
+        "kaolicia-sv.png"
       ]   
     },
     { 
@@ -143,7 +143,7 @@
       "name" : "\"Искандер\"", 
       "description" : "Оперативно-тактический ракетный комплекс",
       "images" : [
-        "../img/iskander.png"
+        "iskander.png"
       ]   
     },
     { 
@@ -152,7 +152,7 @@
       "name" : "\"ТОР-М2У\"", 
       "description" : "Всепогодный тактический зенитный ракетный комплекс",
       "images" : [
-        "../img/tor-m2u.png"
+        "tor-m2u.png"
       ]   
     },
     { 
@@ -161,7 +161,7 @@
       "name" : "\"БУК-М2\"", 
       "description" : "Войсковой зенитно-ракетный комплекс средней дальности",
       "images" : [
-        "../img/buk-m2.png"
+        "buk-m2.png"
       ]   
     },
     { 
@@ -170,7 +170,7 @@
       "name" : "\"Панцирь-С\"", 
       "description" : "Самоходный ЗРПК наземного базирования",
       "images" : [
-        "../img/pancir-c.png"
+        "pancir-c.png"
       ]   
     },
     { 
@@ -179,7 +179,7 @@
       "name" : "\"С-400\"", 
       "description" : "Зенитная ракетная система большой и средней дальности",
       "images" : [
-        "../img/c-400.png"
+        "c-400.png"
       ]   
     },
     { 
@@ -188,8 +188,8 @@
       "name" : "\"ЯРС\"", 
       "description" : "Твердотопливная межконтинентальная баллистическая ракета",
       "images" : [
-        "../img/irc.png",
-        "../img/irc-2.png"
+        "irc.png",
+        "irc-2.png"
       ]   
     },
     { 
@@ -198,7 +198,7 @@
       "name" : "БТР \"Бумеранг\"", 
       "description" : "БТР на колесной платформе средней категории",
       "images" : [
-        "../img/bumerang.png"
+        "bumerang.png"
       ]   
     },
     { 
@@ -207,7 +207,7 @@
       "name" : "Ту-160", 
       "description" : "",
       "images" : [
-        "../img/ty-160.png"
+        "ty-160.png"
       ]   
     },
     { 
@@ -216,7 +216,7 @@
       "name" : "Ми-8", 
       "description" : "",
       "images" : [
-        "../img/mi-8.png"
+        "mi-8.png"
       ]   
     },
     { 
@@ -225,7 +225,7 @@
       "name" : "Ансат-У", 
       "description" : "",
       "images" : [
-        "../img/ansat-u.png"
+        "ansat-u.png"
       ]   
     },
     { 
@@ -234,7 +234,7 @@
       "name" : "Ка-52", 
       "description" : "",
       "images" : [
-        "../img/ka-52.png"
+        "ka-52.png"
       ]   
     },
     { 
@@ -243,7 +243,7 @@
       "name" : "Су-24", 
       "description" : "",
       "images" : [
-        "../img/sy-24.png"
+        "sy-24.png"
       ]   
     },
     { 
@@ -252,7 +252,7 @@
       "name" : "Су-34", 
       "description" : "",
       "images" : [
-        "../img/sy-34.png"
+        "sy-34.png"
       ]   
     },
     { 
@@ -261,7 +261,7 @@
       "name" : "МиГ-31", 
       "description" : "",
       "images" : [
-        "../img/mig-31.png"
+        "mig-31.png"
       ]   
     },
     { 
@@ -270,7 +270,7 @@
       "name" : "Су-25СМ", 
       "description" : "",
       "images" : [
-        "../img/sy-25cm.png"
+        "sy-25cm.png"
       ]   
     }
 ]
