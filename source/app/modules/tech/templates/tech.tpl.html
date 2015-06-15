@@ -1,0 +1,13 @@
+<ion-view cache-view="false" view-title="Список">
+    <ion-content>
+        <div class="row">
+            <div class="col">
+                <div class="list">
+                	<a class="item" ui-sref="app.tech.catalog" ng-repeat="group in techList track by $index" ng-click="selectGroup(group)">
+                		{{ group.name }}
+                	</a>
+                </div>
+            </div>
+        </div>
+    </ion-content>
+</ion-view>

@@ -1,0 +1,13 @@
+<ion-view cache-view="false" view-title="{{currentGroup.model}}" >
+    <ion-content>
+        <div class="row">
+            <div class="col">
+                <div class="list">
+                	<a class="item" ui-sref="app.tech.model.gallery" ng-repeat="model in currentGroup.list track by $index" ng-click="selectModel(model)">
+                		{{ model.name }}
+                	</a>
+                </div>
+            </div>
+        </div>
+    </ion-content>
+</ion-view>

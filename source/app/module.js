@@ -1,14 +1,11 @@
-require ('./modules/dash/index.js');
+require('./modules/dash/index.js');
+require('./modules/tech/index.js');
 var routing = require('./routing.js');
+var template = require('html!./templates/app.tpl.html');
+var about = require('html!./templates/about.tpl.html');
 
-angular.module('app', ['ionic'. 'dash'])
+module.exports = angular.module('app', ['ionic', 'dash', 'tech'])
     .config(routing)
-    .config(function(localStorageServiceProvider) {
-        localStorageServiceProvider
-            .setPrefix('App')
-            .setStorageType('localStorage')
-            .setNotify(true, true)
-    })
     .run(['$ionicPlatform', function($ionicPlatform) {
         $ionicPlatform.ready(function() {
             if (window.cordova && window.cordova.plugins.Keyboard)
@@ -17,3 +14,11 @@ angular.module('app', ['ionic'. 'dash'])
                 StatusBar.styleDefault();
         });
     }])
+    .run(['$templateCache', function($templateCache) {
+        $templateCache.put('/templates/app.tpl', template);
+        $templateCache.put('/templates/about.tpl', about)
+    }])
+
+angular.element(document).ready(function() {
+    angular.bootstrap(document, ['app']);
+});

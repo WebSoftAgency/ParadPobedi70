@@ -1,0 +1,18 @@
+<ion-modal-view>
+    <ion-header-bar class="bar bar-header bar-balanced">
+        <h1 class="title">{{currentModel.name}}</h1>
+        <a ng-click="hideSlider()" class="button button-icon icon ion-close"></a>
+        </div>
+    </ion-header-bar>
+    <ion-content>
+        <ion-slide-box show-pager="false">
+            <ion-slide ng-repeat="image in currentModel.images track by $index">
+                <div class="row">
+                    <div class="col text-center item-image">
+                        <img ng-src="img/models/{{image}}" />
+                    </div>
+                </div>
+            </ion-slide>
+        </ion-slide-box>
+    </ion-content>
+</ion-modal-view>

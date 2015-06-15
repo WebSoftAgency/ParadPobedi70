@@ -1,7 +1,7 @@
-require('./module.js')
-    .service('DashSrv', ['localStorageService', function(localStorageService) {
-    	console.log('DashSrv');
+require('../module.js')
+    .service('DashSrv', [function() {
+    	
     	return {
-    		
+
     	}
     }])
