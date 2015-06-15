@@ -8,10 +8,22 @@ module.exports = [
         ]
     },
     {
-        "file": "plugins/org.apache.cordova.device/www/device.js",
-        "id": "org.apache.cordova.device.device",
+        "file": "plugins/cordova-plugin-device/www/device.js",
+        "id": "cordova-plugin-device.device",
         "clobbers": [
             "device"
+        ]
+    },
+    {
+        "file": "plugins/cordova-plugin-whitelist/whitelist.js",
+        "id": "cordova-plugin-whitelist.whitelist",
+        "runs": true
+    },
+    {
+        "file": "plugins/cordova-plugin-splashscreen/www/splashscreen.js",
+        "id": "cordova-plugin-splashscreen.SplashScreen",
+        "clobbers": [
+            "navigator.splashscreen"
         ]
     }
 ];
@@ -19,8 +31,11 @@ module.exports.metadata =
 // TOP OF METADATA
 {
     "com.ionic.keyboard": "1.0.4",
-    "org.apache.cordova.console": "0.2.13",
-    "org.apache.cordova.device": "0.3.0"
+    "cordova-plugin-console": "1.0.0",
+    "cordova-plugin-device": "1.0.0",
+    "cordova-plugin-whitelist": "1.0.0",
+    "cordova-plugin-crosswalk-webview": "1.2.0",
+    "cordova-plugin-splashscreen": "2.0.0"
 }
 // BOTTOM OF METADATA
 });
