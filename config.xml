@@ -1,29 +1,27 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <widget id="com.websoftagency.paradpobedi2015" version="0.0.3" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:gap="http://phonegap.com/ns/1.0">
-  <name>Парад победы 2015</name>
-  <description>&#xD;
-        Вооружение и военная техника парада Победы 2015 года.&#xD;
+    <name>paradpobedi2015</name>
+    <description>&#xD; Вооружение и военная техника парада Победы 2015 года.&#xD;
     </description>
-  <author email="nikolay.wsa@gmail.com" href="http://websoftagency.com/">&#xD;
-        WebSoftAgency Team&#xD;
+    <author email="nikolay.wsa@gmail.com" href="http://websoftagency.com/">&#xD; WebSoftAgency Team&#xD;
     </author>
-  <content src="index.html"/>
-  <access origin="*"/>
-  <preference name="webviewbounce" value="false"/>
-  <preference name="UIWebViewBounce" value="false"/>
-  <preference name="DisallowOverscroll" value="true"/>
-  <preference name="android-minSdkVersion" value="16"/>
-  <preference name="BackupWebStorage" value="none"/>
-  <feature name="StatusBar">
-    <param name="ios-package" value="CDVStatusBar" onload="true"/>
-  </feature>
-  <platform name="android">
-    <icon src="resources\android\icon\drawable-ldpi-icon.png" density="ldpi"/>
-    <icon src="resources\android\icon\drawable-mdpi-icon.png" density="mdpi"/>
-    <icon src="resources\android\icon\drawable-hdpi-icon.png" density="hdpi"/>
-    <icon src="resources\android\icon\drawable-xhdpi-icon.png" density="xhdpi"/>
-    <icon src="resources\android\icon\drawable-xxhdpi-icon.png" density="xxhdpi"/>
-    <icon src="resources\android\icon\drawable-xxxhdpi-icon.png" density="xxxhdpi"/>
-  </platform>
-  <icon src="resources\android\icon\drawable-xhdpi-icon.png"/>
+    <content src="index.html" />
+    <access origin="*" />
+    <preference name="webviewbounce" value="false" />
+    <preference name="UIWebViewBounce" value="false" />
+    <preference name="DisallowOverscroll" value="true" />
+    <preference name="android-minSdkVersion" value="16" />
+    <preference name="BackupWebStorage" value="none" />
+    <feature name="StatusBar">
+        <param name="ios-package" value="CDVStatusBar" onload="true" />
+    </feature>
+    <platform name="android">
+        <icon src="resources/android/icon/drawable-ldpi-icon.png" density="ldpi" />
+        <icon src="resources/android/icon/drawable-mdpi-icon.png" density="mdpi" />
+        <icon src="resources/android/icon/drawable-hdpi-icon.png" density="hdpi" />
+        <icon src="resources/android/icon/drawable-xhdpi-icon.png" density="xhdpi" />
+        <icon src="resources/android/icon/drawable-xxhdpi-icon.png" density="xxhdpi" />
+        <icon src="resources/android/icon/drawable-xxxhdpi-icon.png" density="xxxhdpi" />
+    </platform>
+    <icon src="resources/android/icon/drawable-xhdpi-icon.png" />
 </widget>
