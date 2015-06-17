@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
-<widget id="com.ionicframework.blank584188" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>blank</name>
+<widget id="com.websoftagency.paradpobedi2015" version="0.0.3" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Парад победы 2015</name>
     <description>
-        An Ionic Framework and Cordova project.
+        Вооружение и военная техника парада Победы 2015 года.
     </description>
-    <author email="hi@ionicframework" href="http://ionicframework.com/">
-        Ionic Framework Team
+    <author email="nikolay.wsa@gmail.com" href="http://websoftagency.com/">
+        WebSoftAgency Team
     </author>
     <content src="index.html" />
     <access origin="*" />
