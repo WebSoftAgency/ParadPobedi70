@@ -1,0 +1,774 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"time",
+				"timeout	\\$timeout"
+			],
+			[
+				"cl",
+				"class	Attr"
+			],
+			[
+				"roo",
+				"rootScope	\\$rootScope"
+			],
+			[
+				"controll",
+				"angular: $controller"
+			],
+			[
+				"RootScope",
+				"angular: $rootScope"
+			],
+			[
+				"desc",
+				"desc	BDD describe"
+			],
+			[
+				"pro",
+				"process.exit"
+			],
+			[
+				"process",
+				"process.argv"
+			],
+			[
+				"argv",
+				"process.argv"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"as",
+				"async.waterfall"
+			],
+			[
+				"asy",
+				"async.series"
+			],
+			[
+				"para",
+				"async.parallel"
+			],
+			[
+				"company",
+				"companyList"
+			],
+			[
+				"Propos",
+				"proposals"
+			],
+			[
+				"inquiry",
+				"inquiryList"
+			],
+			[
+				"lo",
+				"log	\\$log"
+			],
+			[
+				"confirm",
+				"confirmedFrom"
+			],
+			[
+				"h",
+				"href	Attr"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"des",
+				"description	@description"
+			],
+			[
+				"jo",
+				"path.join();"
+			],
+			[
+				"Inquery",
+				"InqueryController"
+			],
+			[
+				"ass",
+				"assert.equal"
+			],
+			[
+				"forE",
+				"_.forEach"
+			],
+			[
+				"requer",
+				"require"
+			],
+			[
+				"andu",
+				"angular.module"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"ibooking",
+				"ibookingvip"
+			],
+			[
+				"con",
+				"console.	.assert(assertion, message)"
+			],
+			[
+				"registra",
+				"registration"
+			],
+			[
+				"cons",
+				"console.log"
+			],
+			[
+				"script",
+				"script.runInThisContext"
+			],
+			[
+				"ionic-bu",
+				"ionic-css-button:energized	ionic-css-button-energized"
+			],
+			[
+				"urlRouter",
+				"angular: $routeProvider"
+			],
+			[
+				"ion",
+				"ionic-header-bar	ionic-header-bar"
+			],
+			[
+				"t",
+				"tbt	toBeTruthy"
+			],
+			[
+				"cont",
+				"controller	\\$controller"
+			],
+			[
+				"ionic",
+				"ionic-nav-bar	ionic-nav-bar"
+			],
+			[
+				"tio",
+				"timeout	\\$timeout"
+			],
+			[
+				"ionic-nav",
+				"ionic-nav-view	ionic-nav-view"
+			],
+			[
+				"ionic-n",
+				"ionic-nav-view	ionic-nav-view"
+			],
+			[
+				"ionic-tab",
+				"ionic-tabs	ionic-tabs"
+			],
+			[
+				"ioni",
+				"ionic-css-tabs:royal	ionic-css-tabs-royal"
+			],
+			[
+				"ionic-i",
+				"ionic-css-list:inset	ionic-css-list-inset"
+			],
+			[
+				"ionic-li",
+				"ionic-css-list-item	ionic-css-list-item"
+			],
+			[
+				"__",
+				"__dirname"
+			],
+			[
+				"route",
+				"angular: $routeProvider"
+			],
+			[
+				"io",
+				"ionic-nav-view	ionic-nav-view"
+			],
+			[
+				"ionic-nav-",
+				"ionic-nav-back	ionic-nav-back-button"
+			],
+			[
+				"ion-na",
+				"ionic-nav-back	ionic-nav-back-button"
+			],
+			[
+				"tb",
+				"tbd	toBeDefined"
+			],
+			[
+				"de",
+				"desc	BDD describe"
+			],
+			[
+				"conso",
+				"console.info"
+			],
+			[
+				"war",
+				"console.warn"
+			],
+			[
+				"statusCode",
+				"http.STATUS_CODES"
+			],
+			[
+				"ser",
+				"server.listen"
+			],
+			[
+				"createS",
+				"http.createServer"
+			],
+			[
+				"Compan",
+				"Company"
+			],
+			[
+				"hostna",
+				"os.hostname"
+			],
+			[
+				"write",
+				"response.write"
+			],
+			[
+				"liste",
+				"server.listen"
+			],
+			[
+				"req",
+				"require"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "instal",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pn",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 520.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"dir",
+			"ls",
+			"sdasd",
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/_GERZHAN/WebSoftAgency/20150420_patriot_test/ParadPobedi70"
+	],
+	"file_history":
+	[
+		"/C/_GERZHAN/WebSoftAgency/20150514_BWell_Treners/bwell_trainers/www/app_source/app/app_modules/dash/controllers/dash.js",
+		"/C/_GERZHAN/WebSoftAgency/20150514_BWell_Treners/bwell_trainers/www/app_source/app/app_modules/dash/services/dash.js",
+		"/C/_GERZHAN/WebSoftAgency/20150420_patriot_test/bad_version/config.xml",
+		"/C/_GERZHAN/WebSoftAgency/20150514_BWell_Treners/bwell_trainers/config.xml",
+		"/C/_GERZHAN/WebSoftAgency/20150514_BWell_Treners/bwell_trainers/platforms/android/AndroidManifest.xml",
+		"/C/_GERZHAN/WebSoftAgency/20150514_BWell_Treners/bwell_trainers/www/app_source/app/app_modules/dash/services/TrainingSrv.js",
+		"/C/_GERZHAN/WebSoftAgency/20150514_BWell_Treners/bwell_trainers/www/less/trainer.less",
+		"/C/_GERZHAN/WebSoftAgency/20150514_BWell_Treners/bwell_trainers/www/app_source/app/app_modules/dash/templates/dash.tpl.html",
+		"/C/_GERZHAN/WebSoftAgency/20150514_BWell_Treners/bwell_trainers/www/app_source/app/app_modules/dash/templates/verification-popup.tpl.html",
+		"/C/_GERZHAN/WebSoftAgency/20150514_BWell_Treners/bwell_trainers/www/app_source/app/index.js",
+		"/C/_GERZHAN/WebSoftAgency/20150514_BWell_Treners/bwell_trainers/www/index.html",
+		"/C/_GERZHAN/WebSoftAgency/20150514_BWell_Treners/bwell_trainers/www/app_source/app/app_modules/dash/index.js",
+		"/C/_GERZHAN/WebSoftAgency/20150514_BWell_Treners/bwell_trainers/www/less/buttons.less",
+		"/C/_GERZHAN/WebSoftAgency/20150514_BWell_Treners/bwell_trainers/www/less/style.less",
+		"/C/_GERZHAN/WebSoftAgency/20150514_BWell_Treners/bwell_trainers/www/app_source/app/app_modules/dash/module.js",
+		"/C/_GERZHAN/WebSoftAgency/20150514_BWell_Treners/bwell_trainers/webpack.config.js",
+		"/C/_GERZHAN/WebSoftAgency/20150615_PinKeeper/pinkeeper/README.md",
+		"/C/_GERZHAN/WebSoftAgency/20150514_BWell_Treners/old_source/Bwell - trainers (2)/config.xml",
+		"/C/_GERZHAN/WebSoftAgency/20150514_BWell_Treners/bwell_trainers/235ed38a6558c83ca1e19b0d6f92f21a.png",
+		"/C/_GERZHAN/WebSoftAgency/20150514_BWell_Treners/bwell_trainers/www/app_source/app/app_modules/dash/_fakeBackend.js",
+		"/C/_GERZHAN/WebSoftAgency/20150514_BWell_Treners/bwell_trainers/www/app_source/app/app_modules/dash/templates/treinee-popup.tpl.html",
+		"/C/_GERZHAN/WebSoftAgency/20150514_BWell_Treners/bwell_trainers/www/app_source/app/app_modules/groups/module.js",
+		"/C/_GERZHAN/WebSoftAgency/20150514_BWell_Treners/bwell_trainers/www/app_source/app/routing.js",
+		"/C/_GERZHAN/WebSoftAgency/20150514_BWell_Treners/bwell_trainers/www/app_source/app/app_modules/dash/services/AuthSrv.js",
+		"/C/_GERZHAN/WebSoftAgency/20150514_BWell_Treners/bwell_trainers/www/app_source/app/app_modules/dash/templates/login-popup.tpl.html",
+		"/C/_GERZHAN/WebSoftAgency/20150514_BWell_Treners/bwell_trainers/www/app_source/common/security/module.js",
+		"/C/_GERZHAN/WebSoftAgency/20150505_iBookingVVIP/TEMPLATES_BASE/backend-angular/master/gulpfile.js",
+		"/C/_GERZHAN/WebSoftAgency/20150505_iBookingVVIP/TEMPLATES_BASE/backend-angular/index.html",
+		"/C/_GERZHAN/WebSoftAgency/20150505_iBookingVVIP/TEMPLATES_BASE/backend-angular/app/css/app-rtl.css",
+		"/C/_GERZHAN/WebSoftAgency/20150505_iBookingVVIP/TEMPLATES_BASE/backend-angular/master/less/app.less",
+		"/C/_GERZHAN/WebSoftAgency/20150514_BWell_Treners/bwell_trainers/www/js/app.js",
+		"/C/_GERZHAN/WebSoftAgency/20150514_BWell_Treners/bwell_trainers/www/css/app.css",
+		"/C/_GERZHAN/WebSoftAgency/20150514_BWell_Treners/websoftagency-bwell_trainers-27e04f5abc75/config.xml",
+		"/C/_GERZHAN/WebSoftAgency/20150514_BWell_Treners/bwell_trainers/docs/README.md",
+		"/C/_GERZHAN/WebSoftAgency/20150514_BWell_Treners/bwell_trainers/docs/testing.md",
+		"/C/_GERZHAN/WebSoftAgency/20150514_BWell_Treners/bwell_trainers/tests/wsa.karma.conf.js",
+		"/C/_GERZHAN/WebSoftAgency/20150514_BWell_Treners/bwell_trainers/gulpfile.js",
+		"/C/_GERZHAN/WebSoftAgency/20150514_BWell_Treners/bwell_trainers/www/app_source/app/app_modules/dash/controllers/dash_test.js",
+		"/C/_GERZHAN/WebSoftAgency/20150514_BWell_Treners/bwell_trainers/tests/controllers/dash_test.js",
+		"/C/_GERZHAN/WebSoftAgency/20150514_BWell_Treners/bwell_trainers/package.json",
+		"/C/_GERZHAN/WebSoftAgency/20150514_BWell_Treners/bwell_trainers/www/README.md",
+		"/C/_GERZHAN/_tutorials/_tutorial_node/_teach_process/README.md",
+		"/C/_GERZHAN/_tutorials/_tutorial_node/_teach_process/app_test1.js",
+		"/C/_GERZHAN/_tutorials/_tutorial_node/_teach_process/node_modules/async/package.json",
+		"/C/_GERZHAN/WebSoftAgency/20150425_cars_ru/ftp_cars_ru/config/defaults.json",
+		"/C/_GERZHAN/WebSoftAgency/20150425_cars_ru/ftp_cars_ru/src/model/cars/brand.js",
+		"/C/_GERZHAN/WebSoftAgency/_temp/csshat2/csshat2-2.0.0/generator/com.madebysource.csshat2/lib/main.js",
+		"/C/_GERZHAN/WebSoftAgency/20150514_BWell_Treners/bwell_trainers/www/app_source/app/app_modules/dash/templates/style/dash.less",
+		"/C/_GERZHAN/WebSoftAgency/20150514_BWell_Treners/bwell_trainers/www/app_source/app/app_modules/dash/templates/style/dash.css",
+		"/C/_GERZHAN/WebSoftAgency/20150514_BWell_Treners/bwell_trainers/www/css/style.css",
+		"/C/_GERZHAN/WebSoftAgency/_temp/csshat2/csshat2-2.0.0/generator/com.madebysource.csshat2/jsx/getDocumentInfo.jsx",
+		"/C/_GERZHAN/WebSoftAgency/_temp/csshat2/csshat2-2.0.0/generator/com.madebysource.csshat2/lib/generator-server.js",
+		"/C/_GERZHAN/WebSoftAgency/_temp/csshat2/csshat2-2.0.0/extension/com.madebysource.csshat2/auth.js",
+		"/C/_GERZHAN/WebSoftAgency/_temp/csshat2/csshat2-2.0.0/extension/com.madebysource.csshat2/META-INF/signatures.xml",
+		"/C/_GERZHAN/WebSoftAgency/_temp/csshat2/csshat2-2.0.0/extension/com.madebysource.csshat2/lib/AppConfig.js",
+		"/C/_GERZHAN/WebSoftAgency/_temp/csshat2/csshat2-2.0.0/extension/com.madebysource.csshat2/CSXS/manifest.xml",
+		"/C/_GERZHAN/WebSoftAgency/_temp/csshat2/csshat2-2.0.0/extension/com.madebysource.csshat2/main.js",
+		"/C/_GERZHAN/WebSoftAgency/_temp/csshat2/csshat2-2.0.0/extension/com.madebysource.csshat2/lib/Util.js",
+		"/C/_GERZHAN/WebSoftAgency/20150514_BWell_Treners/bwell_trainers/platforms/android/build.xml",
+		"/C/_GERZHAN/WebSoftAgency/20150514_BWell_Treners/bwell_trainers/ionic.project",
+		"/C/_GERZHAN/WebSoftAgency/20150505_iBookingVVIP/iBookingVIP_full_project/ibookingvip_backend/.tmp/public/landingpage/css/new.css",
+		"/C/_GERZHAN/WebSoftAgency/20150505_iBookingVVIP/iBookingVIP_full_project/ibookingvip_frontend/app/views/ibookingvip/reservation.html",
+		"/C/_GERZHAN/WebSoftAgency/20150505_iBookingVVIP/iBookingVIP_full_project/ibookingvip_backend/api/models/MailingProposal.js",
+		"/C/_GERZHAN/WebSoftAgency/20150505_iBookingVVIP/iBookingVIP_full_project/ibookingvip_backend/api/controllers/ReservationController.js",
+		"/C/_GERZHAN/WebSoftAgency/20150505_iBookingVVIP/iBookingVIP_full_project/ibookingvip_backend/config/routes.js",
+		"/C/_GERZHAN/WebSoftAgency/20150505_iBookingVVIP/iBookingVIP_full_project/ibookingvip_backend/api/controllers/InquiryController.js",
+		"/C/_GERZHAN/WebSoftAgency/20150505_iBookingVVIP/iBookingVIP_full_project/ibookingvip_backend/views/inquiry/inquiryform.ejs",
+		"/C/_GERZHAN/WebSoftAgency/20150505_iBookingVVIP/iBookingVIP_full_project/ibookingvip_backend/views/inquiry/inquirylist.ejs",
+		"/C/_GERZHAN/WebSoftAgency/20150505_iBookingVVIP/iBookingVIP_full_project/ibookingvip_backend/views/page/reservation/inquiry_info_for_respond.ejs",
+		"/C/_GERZHAN/WebSoftAgency/20150505_iBookingVVIP/iBookingVIP_full_project/ibookingvip_backend/views/emailtemplates/proposals/informed/informed.html.ejs",
+		"/C/_GERZHAN/WebSoftAgency/20150505_iBookingVVIP/iBookingVIP_full_project/ibookingvip_backend/views/page/reservation/inquiry_type/undefined.ejs",
+		"/C/_GERZHAN/WebSoftAgency/20150505_iBookingVVIP/iBookingVIP_full_project/ibookingvip_backend/api/services/inquiryService.js",
+		"/C/_GERZHAN/WebSoftAgency/20150505_iBookingVVIP/iBookingVIP_full_project/ibookingvip_backend/config/models.js",
+		"/C/_GERZHAN/WebSoftAgency/20150505_iBookingVVIP/iBookingVIP_full_project/ibookingvip_backend/config/views.js",
+		"/C/_GERZHAN/WebSoftAgency/20150505_iBookingVVIP/iBookingVIP_full_project/ibookingvip_backend/api/services/CustomerService.js",
+		"/C/_GERZHAN/WebSoftAgency/20150505_iBookingVVIP/iBookingVIP_full_project/ibookingvip_backend/api/controllers/CompanyController.js",
+		"/C/_GERZHAN/WebSoftAgency/20150505_iBookingVVIP/iBookingVIP_full_project/ibookingvip_backend/api/models/Company.js",
+		"/C/_GERZHAN/WebSoftAgency/20150505_iBookingVVIP/iBookingVIP_full_project/ibookingvip_backend/views/emailtemplates/inquery/inquery.html.ejs",
+		"/C/_GERZHAN/WebSoftAgency/20150505_iBookingVVIP/iBookingVIP_full_project/ibookingvip_backend/api/models/Inquiry.js",
+		"/C/_GERZHAN/WebSoftAgency/20150505_iBookingVVIP/iBookingVIP_full_project/ibookingvip_backend/api/models/ServiceType.js",
+		"/C/_GERZHAN/WebSoftAgency/20150505_iBookingVVIP/iBookingVIP_full_project/ibookingvip_backend/views/inquiry/inquiryList.ejs",
+		"/C/_GERZHAN/WebSoftAgency/20150505_iBookingVVIP/iBookingVIP_full_project/ibookingvip_backend/api/models/InquiryType.js",
+		"/C/_GERZHAN/WebSoftAgency/20150505_iBookingVVIP/iBookingVIP_full_project/ibookingvip_backend/api/controllers/InquiryTypeController.js",
+		"/C/_GERZHAN/WebSoftAgency/20150505_iBookingVVIP/iBookingVIP_full_project/ibookingvip_backend/api/controllers/CronJobController.js",
+		"/C/_GERZHAN/LangPrizm/website_chatrooms/api/controllers/ChatRoomController.coffee",
+		"/C/_GERZHAN/WebSoftAgency/20150505_iBookingVVIP/iBookingVIP_full_project/ibookingvip_backend/api/services/_developService.js",
+		"/C/_GERZHAN/WebSoftAgency/20150505_iBookingVVIP/iBookingVIP_full_project/ibookingvip_backend/api/models/Proposal.js",
+		"/C/_GERZHAN/WebSoftAgency/20150505_iBookingVVIP/iBookingVIP_full_project/ibookingvip_backend/views/page/landingpage.ejs",
+		"/C/_GERZHAN/LangPrizm/website_chatrooms/api/models/ChatRooms.js",
+		"/C/_GERZHAN/LangPrizm/website_chatrooms/api/models/ChatRoomMessages.js",
+		"/C/_GERZHAN/WebSoftAgency/20150505_iBookingVVIP/iBookingVIP_full_project/ibookingvip_backend/api/services/demoDataService.js",
+		"/C/_GERZHAN/WebSoftAgency/20150505_iBookingVVIP/iBookingVIP_full_project/ibookingvip_backend/views/company/companyList.ejs",
+		"/C/_GERZHAN/WebSoftAgency/20150505_iBookingVVIP/iBookingVIP_full_project/ibookingvip_backend/views/inquiry/inquiryForm.ejs",
+		"/C/_GERZHAN/WebSoftAgency/20150505_iBookingVVIP/iBookingVIP_full_project/ibookingvip_backend/views/company/companyForm.ejs",
+		"/C/_GERZHAN/WebSoftAgency/20150505_iBookingVVIP/iBookingVIP_full_project/ibookingvip_backend/api/controllers/InquiryApiController.js",
+		"/C/_GERZHAN/WebSoftAgency/20150505_iBookingVVIP/iBookingVIP_full_project/ibookingvip_backend/docs/_Functional_Requirement.md",
+		"/C/_GERZHAN/WebSoftAgency/20150505_iBookingVVIP/iBookingVIP_full_project/ibookingvip_backend/docs/Registration.md",
+		"/C/_GERZHAN/WebSoftAgency/20150505_iBookingVVIP/iBookingVIP_full_project/ibookingvip_backend/api/controllers/UserController.js",
+		"/C/_GERZHAN/WebSoftAgency/20150505_iBookingVVIP/iBookingVIP_full_project/ibookingvip_backend/api/controllers/RegistrationController.js",
+		"/C/_GERZHAN/WebSoftAgency/20150505_iBookingVVIP/iBookingVIP_full_project/ibookingvip_backend/docs/Inquiry.md",
+		"/C/_GERZHAN/WebSoftAgency/20150505_iBookingVVIP/iBookingVIP_full_project/ibookingvip_backend/test/bootstrap.spec.js",
+		"/C/_GERZHAN/WebSoftAgency/20150505_iBookingVVIP/iBookingVIP_full_project/ibookingvip_backend/test/mocha.opts",
+		"/C/_GERZHAN/WebSoftAgency/20150505_iBookingVVIP/iBookingVIP_full_project/ibookingvip_backend/test/unit/models/User.spec.js",
+		"/C/_GERZHAN/WebSoftAgency/20150505_iBookingVVIP/iBookingVIP_full_project/ibookingvip_backend/package.json",
+		"/C/_GERZHAN/WebSoftAgency/20150505_iBookingVVIP/iBookingVIP_full_project/ibookingvip_backend/config/connections.js",
+		"/C/_GERZHAN/WebSoftAgency/20150505_iBookingVVIP/iBookingVIP_full_project/ibookingvip_backend/test/Mocha.ops",
+		"/C/_GERZHAN/WebSoftAgency/20150505_iBookingVVIP/iBookingVIP_full_project/ibookingvip_backend/README.RU.md",
+		"/C/_GERZHAN/WebSoftAgency/20150505_iBookingVVIP/iBookingVIP_full_project/ibookingvip_backend/docs/testing-sailsjs-application-code.RU.md",
+		"/C/_GERZHAN/WebSoftAgency/20150505_iBookingVVIP/iBookingVIP_full_project/ibookingvip_backend/views/page/reservation/inquiry_info_error.ejs",
+		"/C/_GERZHAN/WebSoftAgency/20150505_iBookingVVIP/iBookingVIP_full_project/ibookingvip_backend/views/layout_for_static_pages.ejs",
+		"/C/_GERZHAN/WebSoftAgency/20150505_iBookingVVIP/iBookingVIP_full_project/ibookingvip_backend/views/page/reservation/README.md",
+		"/C/_GERZHAN/WebSoftAgency/20150505_iBookingVVIP/iBookingVIP_full_project/ibookingvip_backend/views/page/reservation/decline_inquiry.ejs",
+		"/C/_GERZHAN/WebSoftAgency/20150505_iBookingVVIP/iBookingVIP_full_project/ibookingvip_backend/README.md",
+		"/C/_GERZHAN/WebSoftAgency/_temp/dog-test/www/js/controller.js",
+		"/C/_GERZHAN/WebSoftAgency/_temp/dog-test/www/js/app.js",
+		"/C/_GERZHAN/WebSoftAgency/_temp/dog-test/www/index.html",
+		"/C/_GERZHAN/WebSoftAgency/20150505_iBookingVVIP/iBookingVIP_full_project/ibookingvip_backend/test/mosha.ops",
+		"/C/Users/Николай/Google Диск/_DOC_AND_INSTRUCTION/articles/jsdoc/2014-08-06-jsdoc-install-and-start-used.md",
+		"/C/Users/Николай/Google Диск/_DOC_AND_INSTRUCTION/articles/jsdoc/2014-08-15-jdoc-start-used.md",
+		"/C/_GERZHAN/WebSoftAgency/20150505_iBookingVVIP/iBookingVIP_full_project/ibookingvip_backend/.node-inspectorrc",
+		"/C/_GERZHAN/WebSoftAgency/20150505_iBookingVVIP/iBookingVIP_full_project/ibookingvip_backend/api/controllers/CustomerApiController.js",
+		"/C/_GERZHAN/WebSoftAgency/20150505_iBookingVVIP/iBookingVIP_full_project/ibookingvip_backend/api/controllers/CustomerController.js",
+		"/C/_GERZHAN/WebSoftAgency/20150505_iBookingVVIP/iBookingVIP_full_project/ibookingvip_backend/views/page/reservation/error_action_decline.ejs",
+		"/C/_GERZHAN/WebSoftAgency/20150505_iBookingVVIP/iBookingVIP_full_project/ibookingvip_backend/_src_spa/README.md",
+		"/C/_GERZHAN/WebSoftAgency/20150505_iBookingVVIP/iBookingVIP_full_project/ibookingvip_backend/views/500.ejs",
+		"/C/_GERZHAN/WebSoftAgency/20150505_iBookingVVIP/iBookingVIP_full_project/ibookingvip_backend/api/controllers/AdminProposalController.js",
+		"/C/_GERZHAN/WebSoftAgency/20150505_iBookingVVIP/iBookingVIP_full_project/ibookingvip_backend/api/models/User.js",
+		"/C/_GERZHAN/WebSoftAgency/20150505_iBookingVVIP/iBookingVIP_full_project/ibookingvip_backend/views/page/admin/proposal/_index.ejs"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\_GERZHAN\\WebSoftAgency\\20150514_BWell_Treners\\bwell_trainers\\www\\app_source",
+			"C:\\_GERZHAN\\WebSoftAgency\\20150505_iBookingVVIP\\iBookingVIP_full_project\\ibookingvip_frontend\\app",
+			"C:\\_GERZHAN\\WebSoftAgency\\20150505_iBookingVVIP\\iBookingVIP_full_project\\ibookingvip_frontend\\app_modules",
+			"C:\\_GERZHAN\\WebSoftAgency\\20150505_iBookingVVIP\\iBookingVIP_full_project\\ibookingvip_frontend",
+			"C:\\_GERZHAN\\WebSoftAgency\\20150505_iBookingVVIP\\iBookingVIP_full_project\\ibookingvip_backend\\api",
+			"C:\\_GERZHAN\\WebSoftAgency\\20150505_iBookingVVIP\\iBookingVIP_full_project\\ibookingvip_backend\\api\\controllers",
+			"C:\\_GERZHAN\\WebSoftAgency\\20150505_iBookingVVIP\\iBookingVIP_full_project\\ibookingvip_backend\\api",
+			"C:\\_GERZHAN\\WebSoftAgency\\20150505_iBookingVVIP\\iBookingVIP_full_project\\ibookingvip_backend\\assets",
+			"C:\\_GERZHAN\\WebSoftAgency\\20150505_iBookingVVIP\\iBookingVIP_full_project\\ibookingvip_backend\\api",
+			"C:\\_GERZHAN\\WebSoftAgency\\20150505_iBookingVVIP\\iBookingVIP_full_project\\ibookingvip_backend\\api\\controllers",
+			"C:\\_GERZHAN\\WebSoftAgency\\20150505_iBookingVVIP\\iBookingVIP_full_project\\ibookingvip_backend\\api",
+			"C:\\_GERZHAN\\WebSoftAgency\\20150505_iBookingVVIP\\iBookingVIP_full_project\\ibookingvip_backend\\config",
+			"C:\\_GERZHAN\\WebSoftAgency\\20150505_iBookingVVIP\\iBookingVIP_full_project\\ibookingvip_backend\\views",
+			"C:\\_GERZHAN\\WebSoftAgency\\20150505_iBookingVVIP\\iBookingVIP_full_project\\ibookingvip_backend\\config",
+			"C:\\_GERZHAN\\WebSoftAgency\\20150505_iBookingVVIP\\iBookingVIP_full_project\\ibookingvip_backend\\api",
+			"C:\\_GERZHAN\\WebSoftAgency\\20150505_iBookingVVIP\\iBookingVIP_full_project\\ibookingvip_backend\\api\\models",
+			"C:\\_GERZHAN\\WebSoftAgency\\20150505_iBookingVVIP\\iBookingVIP_full_project\\ibookingvip_backend\\api\\controllers",
+			"C:\\_GERZHAN\\WebSoftAgency\\20150505_iBookingVVIP\\iBookingVIP_full_project\\ibookingvip_backend\\api",
+			"C:\\_GERZHAN\\WebSoftAgency\\20150505_iBookingVVIP\\iBookingVIP_full_project\\ibookingvip_frontend\\app_src\\js\\ibookingvip",
+			"C:\\_GERZHAN\\WebSoftAgency\\20150505_iBookingVVIP\\iBookingVIP_full_project\\ibookingvip_frontend\\app",
+			"C:\\_GERZHAN\\WebSoftAgency\\20150505_iBookingVVIP\\iBookingVIP_full_project\\ibookingvip_frontend\\app_src",
+			"C:\\_GERZHAN\\WebSoftAgency\\20150505_iBookingVVIP\\iBookingVIP_full_project\\ibookingvip_backend\\api\\controllers",
+			"C:\\_GERZHAN\\WebSoftAgency\\20150505_iBookingVVIP\\iBookingVIP_full_project\\ibookingvip_backend\\assets",
+			"C:\\_GERZHAN\\WebSoftAgency\\20150505_iBookingVVIP\\iBookingVIP_full_project\\ibookingvip_backend\\assets\\app",
+			"C:\\_GERZHAN\\WebSoftAgency\\20150505_iBookingVVIP\\iBookingVIP_full_project\\ibookingvip_backend\\node_modules",
+			"C:\\_GERZHAN\\WebSoftAgency\\20150505_iBookingVVIP\\iBookingVIP_full_project\\ibookingvip_frontend",
+			"C:\\_GERZHAN\\WebSoftAgency\\20150505_iBookingVVIP\\iBookingVIP_full_project\\ibookingvip_backend\\assets",
+			"C:\\_GERZHAN\\WebSoftAgency\\20150505_iBookingVVIP\\iBookingVIP_full_project\\ibookingvip_backend\\api\\controllers",
+			"C:\\_GERZHAN\\WebSoftAgency\\20150505_iBookingVVIP\\iBookingVIP_full_project\\ibookingvip_backend",
+			"C:\\_GERZHAN\\WebSoftAgency\\20150505_iBookingVVIP\\iBookingVIP_full_project\\ibookingvip_backend\\api",
+			"C:\\_GERZHAN\\WebSoftAgency\\20150505_iBookingVVIP\\iBookingVIP_full_project\\ibookingvip_backend",
+			"C:\\_GERZHAN\\WebSoftAgency\\20150505_iBookingVVIP\\iBookingVIP_full_project\\ibookingvip_frontend\\master\\jade",
+			"C:\\_GERZHAN\\WebSoftAgency\\20150505_iBookingVVIP\\iBookingVIP_full_project\\ibookingvip_frontend\\app\\js",
+			"C:\\_GERZHAN\\WebSoftAgency\\20150505_iBookingVVIP\\iBookingVIP_full_project\\ibookingvip_frontend\\app\\views",
+			"C:\\_GERZHAN\\WebSoftAgency\\20150505_iBookingVVIP\\iBookingVIP_full_project\\ibookingvip_frontend",
+			"C:\\_GERZHAN\\WebSoftAgency\\20150505_iBookingVVIP\\iBookingVIP_full_project\\ibookingvip_backend\\config",
+			"C:\\_GERZHAN\\WebSoftAgency\\20150505_GoogleMap_ProjectsNYC\\20150508_ibooking\\ibookingvip_backend\\node_modules\\machinepack-email",
+			"C:\\_GERZHAN\\WebSoftAgency\\20150505_GoogleMap_ProjectsNYC\\20150508_ibooking\\ibookingvip_backend\\node_modules",
+			"C:\\_GERZHAN\\WebSoftAgency\\20150505_GoogleMap_ProjectsNYC\\projectsnyc_googlemap\\master",
+			"C:\\_GERZHAN\\WebSoftAgency\\20150505_GoogleMap_ProjectsNYC\\projectsnyc_googlemap\\bower_components",
+			"C:\\_GERZHAN\\WebSoftAgency\\20150505_GoogleMap_ProjectsNYC\\projectsnyc_googlemap\\js",
+			"C:\\_GERZHAN\\WebSoftAgency\\20150505_GoogleMap_ProjectsNYC\\projectsnyc_googlemap\\vendor",
+			"C:\\_GERZHAN\\WebSoftAgency\\20150505_GoogleMap_ProjectsNYC\\projectsnyc_googlemap\\master\\js",
+			"C:\\_GERZHAN\\WebSoftAgency\\20150505_GoogleMap_ProjectsNYC\\projectsnyc_googlemap\\master\\js\\modules",
+			"C:\\_GERZHAN\\WebSoftAgency\\20150505_GoogleMap_ProjectsNYC\\projectsnyc_googlemap\\app\\views",
+			"C:\\_GERZHAN\\WebSoftAgency\\20150505_GoogleMap_ProjectsNYC\\projectsnyc_googlemap\\master",
+			"C:\\_GERZHAN\\WebSoftAgency\\20150505_GoogleMap_ProjectsNYC\\projectsnyc_googlemap",
+			"C:\\_GERZHAN\\WebSoftAgency\\20150505_GoogleMap_ProjectsNYC\\projectsnyc_googlemap\\app_modules",
+			"C:\\_GERZHAN\\WebSoftAgency\\20150425_cars_ru\\ftp_cars_ru\\src\\routes"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\\",
+			"getTimer",
+			"setTimeStartTraining",
+			"('----',);",
+			"setTimeStartTranng",
+			"setTimeStartTraning",
+			"popupListTrainees",
+			"verificationPopupOpen",
+			"popupList",
+			"treineeInfo",
+			"templates",
+			"treineeInfo",
+			"popupList",
+			"direction",
+			"rtl",
+			"auth",
+			"_isAuth",
+			"popupList",
+			"DashSrv",
+			"authToken",
+			"respond",
+			"Respond",
+			"Respond to inquiry",
+			"EmailSen",
+			"Email",
+			"conso",
+			"inquiryType",
+			"udago",
+			"InquiryTypeTemplates",
+			"inquiryType",
+			"inquiryService",
+			"inquirySendProposals",
+			"newProposals",
+			"flash",
+			"  <label> d</label>",
+			"develop",
+			"initCo",
+			"conf",
+			"util",
+			"ServiceType",
+			"querystring",
+			"url",
+			"_action",
+			"Inquery",
+			">\n",
+			"Inquery",
+			"19",
+			"wsaPrivateJetService",
+			"server/customer-list.json",
+			"wsa.Common",
+			"customers/profile",
+			"http://192.168.1.112:1337",
+			"username",
+			"jwt",
+			"http://localhost:8080",
+			" http://localhost:8080",
+			"validator",
+			"demo",
+			"aim.com",
+			"validator",
+			"email",
+			"CORPORATE PROFILE",
+			"ok ",
+			"ok",
+			"registration/activate",
+			"registration/complite",
+			"dest",
+			"subs",
+			"authenticate",
+			"passport.",
+			"passport.a",
+			"passport.auth",
+			"auth",
+			"crypto",
+			"passport",
+			"authenticate",
+			"authentica",
+			"aut",
+			"res",
+			"register",
+			"protocols",
+			"passport.protocols",
+			"free",
+			"regist",
+			"User.",
+			"var",
+			"500",
+			"    \n",
+			"loadingLocations",
+			"GMapController",
+			"ui-gmap-google-map",
+			"login",
+			"wsa_PlaceBitController",
+			"serve",
+			"fa-chevron-right",
+			"router",
+			"ui.router",
+			"dddd",
+			"models",
+			"vendor",
+			"  </",
+			"wsa",
+			"ibookingvip",
+			"wsa",
+			"ngAnnotate",
+			"toaster",
+			"toaster-newToast",
+			"toast",
+			"GET, POST, PUT",
+			"key-remind",
+			"key-remind.png",
+			"enta",
+			"ngdi",
+			"img",
+			"link",
+			"simple mail",
+			"app_modules",
+			"templates:app",
+			"app_modules",
+			"pl",
+			"appRequires",
+			"colors",
+			"browser",
+			"  '",
+			"gmap",
+			"appRequires",
+			"RouteHelpers",
+			"RouteHelpersProvider"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "Packages/User/nodeWebKit.sublime-build",
+	"project": "ParadPobedi70.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"config\\routes.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 302.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 1
+	}
+}
